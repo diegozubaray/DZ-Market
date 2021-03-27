@@ -1,0 +1,1 @@
+web: java -jar -Dspring.profiles.active=pdn build/libs/zubaray-market-1.0.jar
